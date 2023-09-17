@@ -17,8 +17,7 @@ import java.util.concurrent.BlockingQueue
  *
  * **Patrón Creacional [AbstractFactory]**: Proporciona una interfaz para crear familias de objetos relacionados sin especificar sus clases concretas.
  *
- * **Patrón Creacional [DependencyInjection]**: Se utiliza para manejar las dependencias entre componentes de un sistema.
- * En lugar de que un componente cree o busque sus dependencias, estas se "inyectan" desde el exterior.
+ * **Patrón Creacional [DependencyInjection]**: Se utiliza para manejar las dependencias entre componentes de un sistema. En lugar de que un componente cree o busque sus dependencias, estas se "inyectan" desde el exterior.
  *
  * **Patrón Estructural [Decorator]**: Es frecuentemente utilizado para agregar responsabilidades adicionales a objetos individuales de manera dinámica, sin modificar su estructura.
  *
@@ -58,6 +57,7 @@ import java.util.concurrent.BlockingQueue
  * **Patrón de Comportamiento [Visitor]**: Se utiliza para agregar operaciones adicionales a objetos sin modificar su estructura.
  *
  * **Patrón de Comportamiento [State]**: Permite que un objeto altere su comportamiento cuando su estado interno cambia.
+ *
  */
 data class DesignPatterns(val name: String)
 
