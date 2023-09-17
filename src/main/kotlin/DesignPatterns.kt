@@ -58,6 +58,7 @@ import java.util.concurrent.BlockingQueue
  * **Patrón de Comportamiento [Visitor]**: Se utiliza para agregar operaciones adicionales a objetos sin modificar su estructura.
  *
  * **Patrón de Comportamiento [State]**: Permite que un objeto altere su comportamiento cuando su estado interno cambia.
+ *
  */
 data class DesignPatterns(val name: String)
 
