@@ -1,4 +1,15 @@
 /**
+ * - **Imperativo:** Se basa en una secuencia de instrucciones que alteran el estado del programa. **Lenguaje:** C.
+ * - **Procedural:** Un subparadigma del imperativo que organiza el código en procedimientos o funciones. **Lenguajes:** C, Pascal, Go.
+ * - **Orientado a Objetos (POO):** Organiza el diseño alrededor de objetos que contienen datos y comportamiento. **Lenguajes:** Java, C#, Python, Ruby.
+ * - **Funcional:** Trata la computación como la evaluación de funciones matemáticas, evitando el estado mutable. **Lenguajes:** Haskell, Erlang, Scala, Elixir.
+ * - **Declarativo:** Expresa la lógica de la computación sin describir su flujo de control (se centra en el "qué", no en el "cómo"). **Lenguaje:** SQL (el ejemplo más puro).
+ * - **Lógico:** Se basa en la lógica formal para expresar relaciones y reglas. El programa encuentra la solución. **Lenguaje:** Prolog.
+ * - **Dirigido por Eventos:** El flujo del programa está determinado por eventos (ej., clics de ratón, mensajes). **Lenguajes:** JavaScript (en el navegador), Python (con asyncio).
+ * **Nota:** La mayoría de los lenguajes modernos son **multi-paradigma** (como Python, JavaScript, Scala o Go), pero suelen estar asociados a uno o dos paradigmas predominantes.
+ */
+
+/**
  * **Conceptos Fundamentales de POO**:
  *
  * - **[Abstraction]**: Permite simplificar y representar objetos esenciales.
